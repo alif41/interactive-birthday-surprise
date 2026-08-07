@@ -1,0 +1,10 @@
+{
+  "name": "Interactive Birthday Surprise",
+  "description": "A magical, emotional, and interactive birthday surprise website with mini-games, memories, fireworks, and music.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
